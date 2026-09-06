@@ -94,7 +94,7 @@ and turning ideas into practical projects.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Paru-Saha&hide_border=true&theme=github-compact" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dante4rt&hide_border=true&theme=github-compact" />
 
 </div>
 
