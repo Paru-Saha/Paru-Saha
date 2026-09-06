@@ -76,30 +76,6 @@ and turning ideas into practical projects.
 
 ---
 
-## 📊 GitHub Stats
-
-> **Important:** Replace `Paru-Saha` below with your actual GitHub username.
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Paru-Saha&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paru-Saha&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dante4rt&hide_border=true&theme=github-compact" />
-
-</div>
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
