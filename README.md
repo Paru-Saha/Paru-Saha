@@ -1,86 +1,331 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        HEADER                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# Hi, I'm Paru Saha 👋
+<a href="https://github.com/Paru-Saha">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:9B59B6,100:00D4FF&height=180&section=header&text=Paru%20Saha&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web3%20%7C%20Community%20%7C%20Partnerships&descAlignY=60&descSize=18" width="100%"/>
+</a>
 
-### Web3 • Community • Partnerships • Building
+<br>
 
-[![X](https://img.shields.io/badge/X-@paru__saha-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/paru_saha)
-[![GitHub](https://img.shields.io/badge/GitHub-Paru%20Saha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=false&width=700&lines=Building+communities+%F0%9F%A4%9D;Exploring+Web3+%F0%9F%8C%90;Working+on+partnerships+%F0%9F%A4%9D;Experimenting+with+automation+%F0%9F%A4%96;Always+learning+%F0%9F%9A%80" />
+</a>
+
+<br>
+
+<a href="https://x.com/paru_saha">
+<img src="https://img.shields.io/badge/%40paru__saha-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Paru-Saha">
+<img src="https://img.shields.io/badge/GitHub-Paru--Saha-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 👋 About Me
+<div align="center">
 
-I'm **Paru Saha**, a Web3-focused builder interested in communities, partnerships,
-digital products, automation, and the broader blockchain ecosystem.
+### `Web3` • `Community Building` • `Partnerships` • `Growth`
 
-I enjoy connecting people, helping projects grow, experimenting with tools,
-and turning ideas into practical projects.
-
-- 🌐 Exploring **Web3 & blockchain ecosystems**
-- 🤝 Focused on **community building & partnerships**
-- 📢 Interested in **creator/KOL ecosystems and growth**
-- 🤖 Experimenting with **automation and developer tools**
-- 🧩 Building and learning through practical projects
-- 🐦 Active on X as **[@paru_saha](https://x.com/paru_saha)**
+</div>
 
 ---
 
-## 🚀 What I'm Working On
+## 🌌 About Me
 
-| Area | Focus |
-|------|-------|
-| 🌐 Web3 | Blockchain, NFTs & Web3 ecosystems |
-| 🤝 Community | Community building & partnerships |
-| 📣 Growth | Creator, KOL & community campaigns |
-| 🤖 Automation | Bots, tools & workflow automation |
-| 🧪 Experiments | New products, scripts & ideas |
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 👋 Hi, I'm Paru
+
+I'm interested in the **Web3 ecosystem**, community building,
+partnerships, growth, automation, and digital products.
+
+I enjoy:
+
+- 🌐 Exploring Web3 & blockchain ecosystems
+- 🤝 Building meaningful partnerships
+- 👥 Growing and engaging communities
+- 📣 Working with creators and KOL ecosystems
+- 🤖 Experimenting with automation
+- 🧪 Turning ideas into practical projects
+- 🚀 Learning by building
+
+</td>
+
+<td width="45%" valign="top">
+
+<div align="center">
+
+### ⚡ CURRENT FOCUS
+
+<br>
+
+🟣 **Web3**
+
+🟢 **Communities**
+
+🩷 **Partnerships**
+
+🟠 **Growth**
+
+🔵 **Automation**
+
+🟡 **Creator Economy**
+
+<br><br>
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech & Tools
+## 🚀 What I'm Building
 
-### 🌐 Web3
+<div align="center">
 
-![Blockchain](https://img.shields.io/badge/Blockchain-111111?style=flat-square&logo=bitcoin&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-111111?style=flat-square&logo=web3.js&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-111111?style=flat-square&logo=solana&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-111111?style=flat-square&logo=ethereum&logoColor=white)
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+### 🌐
+### Web3
+
+Blockchain  
+NFTs  
+Communities
+
+</td>
+
+<td align="center" width="20%">
+
+### 🤝
+### Community
+
+Growth  
+Engagement  
+Events
+
+</td>
+
+<td align="center" width="20%">
+
+### 📣
+### Partnerships
+
+Collabs  
+KOLs  
+Creators
+
+</td>
+
+<td align="center" width="20%">
+
+### 📈
+### Growth
+
+Campaigns  
+Outreach  
+Marketing
+
+</td>
+
+<td align="center" width="20%">
+
+### 🤖
+### Automation
+
+Bots  
+Scripts  
+Tools
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🧩 Tech & Tools
+
+### ⛓️ Blockchain & Web3
+
+<p>
+<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web3-7C3AED?style=for-the-badge&logo=web3.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/NFTs-EC4899?style=for-the-badge&logo=opensea&logoColor=white"/>
+</p>
 
 ### 💻 Development
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-### 🤝 Community & Growth
+### 🛠️ Platforms & Tools
 
-![Discord](https://img.shields.io/badge/Discord-111111?style=flat-square&logo=discord&logoColor=white)
-![X](https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-> Add your strongest repositories here as you publish them.
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🔧 Project 01 | Automation / developer tool | JavaScript / Node.js |
-| 🌐 Project 02 | Web3 experiment | Blockchain |
-| 🤖 Project 03 | Community or Discord tool | Node.js / Discord |
+<p>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</p>
 
 ---
 
-## 🔗 Connect With Me
+## 📂 Featured Projects
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/Follow%20me%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/paru_saha)
+<table>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔧 Automation
+
+Tools, scripts and experiments
+designed to simplify repetitive workflows.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Web3
+
+Experiments and projects around
+blockchain and Web3 ecosystems.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Community Tools
+
+Bots and utilities for communities,
+Discord and online ecosystems.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📣 Growth
+
+Projects involving community,
+partnerships and creator ecosystems.
+
+</td>
+</tr>
+
+</table>
+
+</div>
+
+> ⭐ More projects will be added as they are published.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Paru-Saha">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=Paru-Saha&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent"/>
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paru-Saha&layout=compact&hide_border=true&langs_count=8&theme=transparent"/>
+
+</a>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Paru-Saha&hide_border=true&background=00000000&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=888888" width="80%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Paru-Saha&bg_color=00000000&color=8B5CF6&line=6366F1&point=EC4899&area=true&hide_border=true&custom_title=Paru%20Saha%27s%20Contribution%20Graph" width="95%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Paru-Saha/Paru-Saha/output/github-contribution-grid-snake.svg" width="95%"/>
+
+</div>
+
+---
+
+## 🎯 Currently Exploring
+
+<div align="center">
+
+`Web3` &nbsp; `Blockchain` &nbsp; `NFTs` &nbsp; `Community` &nbsp;
+`Partnerships` &nbsp; `Automation` &nbsp; `Growth`
+
+</div>
+
+---
+
+## 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://x.com/paru_saha">
+<img src="https://img.shields.io/badge/X-@paru__saha-black?style=for-the-badge&logo=x"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/Paru-Saha">
+<img src="https://img.shields.io/badge/GitHub-Paru--Saha-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💜 Let's build something amazing together.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Paru-Saha&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -88,8 +333,16 @@ and turning ideas into practical projects.
 
 <div align="center">
 
-### Building. Connecting. Experimenting. 🚀
+<sub>Built with curiosity • Powered by caffeine ☕ • Always learning 🚀</sub>
 
-⭐ Feel free to explore my repositories and follow along.
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         FOOTER                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:9B59B6,100:6C63FF&height=100&section=footer" width="100%"/>
 
 </div>
