@@ -78,13 +78,13 @@ and turning ideas into practical projects.
 
 ## 📊 GitHub Stats
 
-> **Important:** Replace `YOUR_GITHUB_USERNAME` below with your actual GitHub username.
+> **Important:** Replace `Paru-Saha` below with your actual GitHub username.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Paru-Saha&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paru-Saha&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
@@ -94,7 +94,7 @@ and turning ideas into practical projects.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&theme=github-compact" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Paru-Saha&hide_border=true&theme=github-compact" />
 
 </div>
 
