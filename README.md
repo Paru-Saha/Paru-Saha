@@ -260,36 +260,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paru-Saha&la
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Paru-Saha&hide_border=true&background=00000000&ring=8B5CF6&fire=F59E0B&currStreakLabel=8B5CF6&sideLabels=8B5CF6&dates=888888" width="80%"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Paru-Saha&bg_color=00000000&color=8B5CF6&line=6366F1&point=EC4899&area=true&hide_border=true&custom_title=Paru%20Saha%27s%20Contribution%20Graph" width="95%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Paru-Saha/Paru-Saha/output/github-contribution-grid-snake.svg" width="95%"/>
-
-</div>
-
----
-
 ## 🎯 Currently Exploring
 
 <div align="center">
